@@ -58,3 +58,7 @@ dev_dependencies:
     sdk: flutter
   hive_generator:
   build_runner: 
+###Run
+flutter pub get
+flutter pub run build_runner build
+flutter build apk
