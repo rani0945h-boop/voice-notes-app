@@ -12,7 +12,7 @@ A Flutter app that allows users to record voice notes, convert them to text usin
 ## Screenshots
 | Home Screen | Record Dialog | Note Detail |
 |-------------|---------------|-------------|
-| ![Home Screen](assets/screenshots/home_screen.png) | ![Record Dialog](assets/screenshots/record_dialog.png) | ![Note Detail](assets/screenshots/note_detail.png) |
+| ![Home Screen](assets/screenshorts/home_screen.png) | ![Record Dialog](assets/screenshorts/record_dialog.png) | ![Note Detail](assets/screenshorts/note_detail.png) |
 
 ## Getting Started
 
