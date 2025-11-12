@@ -26,3 +26,5 @@ A Flutter app that allows users to record voice notes, convert them to text usin
    ```bash
    git clone https://github.com/rani0945h-boop/voice-notes-app.git
    cd voice-notes-app
+Video 
+https://youtube.com/shorts/rn3kpGrLEHk?si=24WzvhlcprAE2CAE
